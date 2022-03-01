@@ -1,6 +1,6 @@
 # Learning about Software Architecture
 
-Ongoing interest in the topic lead to my promotion to software architect role in 2021. This repository is my take on top recommendations for anyone inclined to take responsibility for architectural decisions. I expect it to remain a work-in-progress indefinitely.
+Ongoing interest in the topic lead to my promotion to a software architect role in 2021. This repository is my take on top recommendations for anyone inclined to take responsibility for architectural decisions. I expect it to remain a work-in-progress indefinitely.
 
 ## Books
 
