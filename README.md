@@ -4,6 +4,9 @@ Ongoing interest in the topic lead to my promotion to a software architect role 
 
 ## Books
 
+[**Strategic Monoliths and Microservices**](https://www.pearson.com/us/higher-education/product/Vernon-Strategic-Monoliths-and-Microservices-Driving-Innovation-Using-Purposeful-Architecture-OASIS/9780137355570.html)  
+Vaughn Vernon & Tomasz Jaskuła; 2022
+
 [**Fundamentals of Software Architecture**](https://www.oreilly.com/library/view/fundamentals-of-software/9781492043447/)  
 Mark Richards and Neal Ford; 2020
 
@@ -14,7 +17,7 @@ Robert C. Martin; 2020
 Roy Osherove; 2016
 
 [**Team Topologies: Organizing Business and Technology Teams for Fast Flow**](https://teamtopologies.com/book)  
-Matthew Skelton and Manuel Pais; 2019
+Matthew Skelton & Manuel Pais; 2019
 
 [**Designing Data-Intensive Applications**](https://dataintensive.net)  
 Martin Kleppmann; 2016
@@ -48,6 +51,3 @@ Collaborative whiteboards
 
 [**GitHub Markdown x Mermaid**](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)  
 README.md diagrams as code
-
-[**Structurizr**](https://structurizr.com/dsl)  
-Simon Brown's C4 model as code
