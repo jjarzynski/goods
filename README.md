@@ -36,6 +36,12 @@ Sławek Sobótka & Bartek Słota; August 6, 2021
 [**Using Play to Rewire & Improve Your Brain | Huberman Lab Podcast #58**](https://youtu.be/BwyZIWeBpRw)  
 Andrew Huberman; February 7, 2022
 
+[**The rise of NoSQL | ThoughtWorks Technology Podcast**](https://www.thoughtworks.com/insights/podcasts/technology-podcasts/rise-nosql)  
+Rebecca Parsons, Zhamak Dehghani, Martin Fowler, Pramod Saladage; October 21, 2021
+
+[**Rick Rubin: Legendary Music Producer | Lex Fridman Podcast #275**](https://youtu.be/H_szemxPcTI)  
+Lex Fridman & Rick Rubin; April 10, 2022
+
 ## Articles
 
 [**[MongoDB] Building with Patterns: A Summary**](https://www.mongodb.com/blog/post/building-with-patterns-a-summary)  
