@@ -1,6 +1,6 @@
 # Learning about Software Architecture
 
-Ongoing interest in the topic lead to my promotion to a software architect role in 2021. This repository is my take on top recommendations for anyone inclined to take responsibility for architectural decisions. I expect it to remain a work-in-progress indefinitely.
+This repository is my take on top recommendations for anyone inclined to take responsibility for architectural decisions. I expect it to remain a work-in-progress indefinitely.
 
 ## Books
 
@@ -42,7 +42,13 @@ Rebecca Parsons, Zhamak Dehghani, Martin Fowler, Pramod Saladage; October 21, 20
 [**Rick Rubin: Legendary Music Producer | Lex Fridman Podcast #275**](https://youtu.be/H_szemxPcTI)  
 Lex Fridman & Rick Rubin; April 10, 2022
 
+[**Starting out with sensible default practices | ThoughtWorks Technology Podcast**](https://www.thoughtworks.com/en-us/insights/podcasts/technology-podcasts/sensible-defaults)  
+Mike Mason, Neal Ford, Kief Morris, Birgitta Böckeler; July 14, 2022
+
 ## Articles
+
+[**Patterns of Legacy Displacement**](https://martinfowler.com/articles/patterns-legacy-displacement/)  
+Ian Cartwright, Rob Horn, James Lewis; July 7, 2022
 
 [**[MongoDB] Building with Patterns: A Summary**](https://www.mongodb.com/blog/post/building-with-patterns-a-summary)  
 Daniel Coupal & Ken W. Alger; April 26, 2019
