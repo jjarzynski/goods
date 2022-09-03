@@ -56,6 +56,9 @@ Daniel Coupal & Ken W. Alger; April 26, 2019
 [**The Pull Request Paradox: Merge Faster by Promoting Your PR**](https://dzone.com/articles/the-pull-request-paradox-merge-faster-by-promoting)  
 Dan Lines; December 17, 2021
 
+[**Dimensions of Power**](https://medium.com/@kentbeck_7670/dimensions-of-power-15ac9fa0c590)  
+Kent Beck; March 23, 2022
+
 ## Tools
 
 [**Miro**](https://miro.com/)  
