@@ -23,8 +23,11 @@ Martin Kleppmann; 2016
 
 ## Podcasts
 
+[**The Pillars of Integrity | The Knowledge Project**](https://fs.blog/knowledge-project-podcast/jim-dethmer-2/)  
+Shane Parrish & Jim Dethmer
+
 [**Software keeps Evolving and is Never Done // Beyond Coding Podcast #37**](https://youtu.be/4-0fiuKdxmc)  
- Patrick Akil & Jessica Kerr; January 26, 2022
+Patrick Akil & Jessica Kerr; January 26, 2022
 
 [**Instagram | Lex Fridman Podcast #243**](https://youtu.be/3pvpNKUPbIY)  
 Lex Fridman & Kevin Systrom; November 23, 2021
