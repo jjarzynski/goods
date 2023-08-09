@@ -1,8 +1,7 @@
-# Learning about Software Architecture
-
-This repository is my take on top recommendations for anyone inclined to take responsibility for architectural decisions. I expect it to remain a work-in-progress indefinitely.
-
 ## Books
+
+[**Clean Architecture**](https://www.pearson.com/en-us/subject-catalog/p/clean-architecture-a-craftsmans-guide-to-software-structure-and-design/P200000009528/9780134494166)
+Robert C. Martin; 2018
 
 [**Strategic Monoliths and Microservices**](https://www.pearson.com/us/higher-education/product/Vernon-Strategic-Monoliths-and-Microservices-Driving-Innovation-Using-Purposeful-Architecture-OASIS/9780137355570.html)  
 Vaughn Vernon & Tomasz Jaskuła; 2022
